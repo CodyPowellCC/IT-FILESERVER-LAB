@@ -11,7 +11,7 @@ Deployed Windows Server 2022 in VirtualBox as a dedicated file server
 ![Fileserver-Creation](Fileserver-Creation.png)
 
 
-  - Set static IP for file server and set DNS to DC1
+  - Set static IP to 10.0.0.5 for file server and set DNS to DC1
 
 ![Static-IP](Static-IP.png)
 
