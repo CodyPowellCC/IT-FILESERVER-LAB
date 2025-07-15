@@ -1,3 +1,4 @@
+# Windows Server 2022 File Server Lab
 Windows Server 2022 File Server LabA virtualized lab showcasing the deployment of Windows Server 2022 as a file server, integrated with an existing Active Directory domain to provide centralized file storage and access for an enterprise-like environment.
 
 - Windows Client (Access Clients)
